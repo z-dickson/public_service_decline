@@ -40,16 +40,6 @@ format:
 
 
 
-# Public Service Delivery {auto-animate=true link-color="#172c83" body-bg="white" cite-color="#172c83"}
-
-
-- Public service delivery is a core function of the state
-  - Key to the social contract between representatives and voters [@besley2020state]
-  - Key to the legitimacy of the state [@levi1988rule]
-  - Key to the quality of life of citizens [@vogler2023]
-- Public services are often the primary means through which citizens interact with and learn about the state's performance
-  - Even citizens uninterested or uninformed about politics are likely to have direct experiences with public services
-
 
 
 # Public Service Delivery {auto-animate="true" link-color="#172c83" body-bg="white" cite-color="#172c83" height=100}
@@ -63,6 +53,16 @@ format:
   - Do they shift to the populist right?
   - Are the effects of declines conditioned by other factors, such as immigration?
 
+
+# Public Service Delivery {auto-animate=true link-color="#172c83" body-bg="white" cite-color="#172c83"}
+
+
+- Public service delivery is a core function of the state
+  - Key to the social contract between representatives and voters [@besley2020state]
+  - Key to the legitimacy of the state [@levi1988rule]
+  - Key to the quality of life of citizens [@vogler2023]
+- Public services are often the primary means through which citizens interact with and learn about the state's performance
+  - Even citizens uninterested or uninformed about politics are likely to have direct experiences with public services
 
 
 
