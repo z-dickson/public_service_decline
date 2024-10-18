@@ -70,8 +70,7 @@ format:
 
 
 - Declines in public service delivery can generate public dissatisfaction and grievances 
-- Shift to the populist right
-  - To punish the incumbent for failing to provide core services
+- Shift to the populist right can occur for several reasons:
   - As a protest vote against the establishment for failure to uphold the social contract
   - When linked with cultural arguments about competition for scarce public services with immigrants
     - Validates the populist right’s anti-immigrant rhetoric
